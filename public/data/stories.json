@@ -1,0 +1,10 @@
+[
+  { "id": 1, "imageUrl": "/assets/API.jpg" },
+  { "id": 2, "imageUrl": "/assets/cloud.jpg" },
+  { "id": 3, "imageUrl": "/assets/collaboration.jpg" },
+  { "id": 4, "imageUrl": "/assets/cybersecurity.jpg" },
+  { "id": 5, "imageUrl": "/assets/dataBase.jpg" },
+  { "id": 6, "imageUrl": "/assets/FeelingYourCode.jpg" },
+  { "id": 7, "imageUrl": "/assets/powerOfAi.jpg" },
+  { "id": 8, "imageUrl": "/assets/python.jpg" }
+]
